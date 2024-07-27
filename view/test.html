@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title></title>
+		<!--<link rel="icon" type="image/x-icon" href="/images/favicon.ico">-->
+		<link rel="stylesheet" type="text/css" href="../../css/bootstrap.min.css">
+		<script src="../../js/jquery-3.7.1.min.js"></script>
+		<style>
+			.btnTicTac{
+				width: 128px;
+				height: 128px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-auto">
+					<table>
+						<tr>
+							<td><button type="button" class="btnTicTac" id="top-left">&nbsp;00</button></td>
+							<td><button type="button" class="btnTicTac" id="top-middle">&nbsp;01</button></td>
+							<td><button type="button" class="btnTicTac" id="top-right">&nbsp;02</button></td>
+						</tr>
+						<tr>
+							<td><button type="button" class="btnTicTac" id="center-left">&nbsp;10</button></td>
+							<td><button type="button" class="btnTicTac" id="center-middle">&nbsp;11</button></td>
+							<td><button type="button" class="btnTicTac" id="center-right">&nbsp;12</button></td>
+						</tr>
+						<tr>
+							<td><button type="button" class="btnTicTac" id="bottom-left">&nbsp;20</button></td>
+							<td><button type="button" class="btnTicTac" id="bottom-middle">&nbsp;21</button></td>
+							<td><button type="button" class="btnTicTac" id="bottom-right">&nbsp;22</button></td>
+						</tr>
+						<tr>
+							<td align="center" colspan="3"><button type="button" onclick="stop()">Finish</button></td>
+						</tr>
+					</table>
+				</div>
+			</div>
+		</div>
+		<script>
+			const TicTac = 
+			[
+
+			];
+			const ticTac = document.querySelector('.btnTicTac');
+			document.addEventListener('click', function (e) {
+				e.target;
+			})
+		</script>
+		<script src="../../js/bootstrap.bundle.min.js"></script>
+	</body>
+</html>

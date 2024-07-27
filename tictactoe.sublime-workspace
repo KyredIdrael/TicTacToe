@@ -1,0 +1,448 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"max",
+				"maxlength"
+			],
+			[
+				"w",
+				"white"
+			],
+			[
+				"c",
+				"colspan"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"log",
+				"console_log"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"i",
+				"innerHTML"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"query",
+				"querySelector"
+			],
+			[
+				"bt",
+				"btnTicTac"
+			],
+			[
+				"ap",
+				"appendChild"
+			],
+			[
+				"fu",
+				"fun\tFunction"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fo",
+				"for\tfor (…) {…}"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"wh",
+				"whosWon"
+			],
+			[
+				"err",
+				"error_reporting()"
+			],
+			[
+				"if",
+				"ifelse\tif … else …"
+			],
+			[
+				"line",
+				"lineOne"
+			],
+			[
+				"ar",
+				"array_unshift"
+			],
+			[
+				"ech",
+				"echo\techo \"…\""
+			],
+			[
+				"ec",
+				"echo\techo \"…\""
+			],
+			[
+				"print",
+				"print_r()"
+			],
+			[
+				"arr",
+				"array\t$… = array (…)"
+			],
+			[
+				"Tic",
+				"TicTac"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"pla",
+				"player-one"
+			],
+			[
+				"reg",
+				"regForm"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"file",
+				"file-name"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"el",
+				"elseif\telseif …"
+			],
+			[
+				"file_",
+				"file_exists()"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ba",
+				"background-size"
+			],
+			[
+				"in",
+				"inline-grid"
+			],
+			[
+				"ima",
+				"background-image"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"border-co",
+				"border-color"
+			],
+			[
+				"pot",
+				"position"
+			],
+			[
+				"btn",
+				"btn-secondary"
+			],
+			[
+				"bord",
+				"border-primary"
+			],
+			[
+				"te",
+				"text-decoration-none"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"script",
+				"script"
+			],
+			[
+				"def",
+				"define()"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"View Package File"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"cmd",
+				"Package Control: Enable Debug Mode"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Disable Package"
+			],
+			[
+				"contr",
+				"Package Control: User CA bundle"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"resource",
+				"PackageResourceViewer: Extract Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"INSTA",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 190.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/laragon/www/tictactoe/tictactoe.sublime-project",
+		"/C/laragon/www/exercices/javascript/tictactoe/index.html",
+		"/C/laragon/www/exercices/javascript/tictactoe/js/script.js",
+		"/C/laragon/www/exercices/javascript/tictactoe/tictac.sublime-project",
+		"/C/laragon/www/exercices/javascript/tictac/js/script.js",
+		"/C/Users/Kyred/AppData/Roaming/Sublime Text/Packages/User/php.sublime-build",
+		"/C/Users/Kyred/AppData/Roaming/Sublime Text/Packages/User/nodeJs.sublime-build",
+		"/C/laragon/www/writeJS/ex1/js/script.js",
+		"/C/laragon/www/exercices/javascript/tictac/index.html",
+		"/C/Games PC/Castle of Temptation V0.3.3a/How To Play.txt",
+		"/C/Users/Kyred/Downloads/FOBS_A_ver1.20/readme/readme1.txt",
+		"/C/Games PC/succubus_six_spells/readme.txt",
+		"/C/Games PC/Castle of Temptation V0.3.3a/Patch Notes.txt",
+		"/C/Games PC/jeux zip/Castle of Temptation V0.3.3a/How To Play.txt",
+		"/C/laragon/www/exercices/index.php",
+		"/C/laragon/www/exercices/php/patinhos/index.php",
+		"/C/laragon/www/exercices/javascript/tictac/test.html",
+		"/C/Games PC/Assassins Creed Revelations/Support/Readme/ReadMe.txt",
+		"/C/Games PC/Assassins Creed Revelations/DataPC.forge",
+		"/C/Games PC/Assassins Creed Revelations/DefaultBindings.map",
+		"/C/Users/Kyred/Desktop/index.html",
+		"/C/laragon/www/ecommerce/v/css/style-home.css",
+		"/C/laragon/www/ecommerce/v/home.php",
+		"/C/laragon/www/test/test.php",
+		"/C/laragon/www/test/css/style-home.css",
+		"/C/laragon/www/assets/css/css/bootstrap-grid.css",
+		"/C/laragon/www/test/index.php",
+		"/C/laragon/www/assets/css/css/bootstrap-utilities.css",
+		"/C/Users/Kyred/AppData/Roaming/Sublime Text/Packages/User/Package Control.user-ca-bundle",
+		"/C/laragon/www/ecommerce/v/index.php",
+		"/C/laragon/www/ecommerce/c/index.php",
+		"/C/laragon/www/ecommerce/m/index.php",
+		"/C/laragon/www/ecommerce/index.php",
+		"/C/laragon/www/ecommerce/c/home.php"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 96.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/nodeJs.sublime-build",
+	"project": "tictactoe.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 301.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

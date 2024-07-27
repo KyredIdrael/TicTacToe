@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<title>Tic Tac Toe</title>
+		<link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css">
+		<script src="./js/jquery-3.7.1.min.js"></script>
+		<style>
+			.btnTicTac{
+				background: white;
+				border: none;
+				margin: 1px;
+				width: 128px;
+				height: 128px;
+			}
+		</style>
+	</head>
+	<body class="bg-black text-white">
+		<main class="container-fluid mt-5">
+			<div class="row justify-content-center">
+				<div class="col-auto">
+					<form id="reg-players" method="POST">
+						<div class="container-fluid bg-dark rounded-4">
+							<div class="row justify-content-center">
+								<div class="col-auto">
+									<h1 class="my-auto">Tic Tac Toe</h1>
+								</div>
+							</div>
+							<div class="row justify-content-center">
+								<div class="col-sm-12 col-md-6">
+									<label for="player-one">Player One</label>
+									<input type="text" name="Player-One" class="form-control" id="player-one" maxlength="20" required/>
+								</div>
+								<div class="col-sm-12 col-md-6">
+									<label for="player-two">Player Two</label>
+									<input type="text" name="Player-Two" class="form-control" id="player-two" maxlength="20" required/>
+								</div>
+							</div>
+							<div class="row justify-content-center">
+								<div class="col-auto">
+									<button type="submit" class="btn btn-secondary m-2" id="play">Play</button>
+								</div>
+							</div>
+						</div>
+					</form>
+				</div>
+			</div>
+			<div class="row justify-content-center" id="game-container">
+				<div class="col-auto bg-dark rounded-4">
+					<table class="m-3" id="game" hidden>
+						<tr>
+							<td><p><strong id="p1">&nbsp;</strong></p></td>
+							<td>&nbsp;</td>
+							<td><p><strong id="p2">&nbsp;</strong></p></td>
+						</tr>
+						<tr>
+							<td><button type="button" class="btnTicTac" id="top-left">&nbsp;</button></td>
+							<td><button type="button" class="btnTicTac" id="top-middle">&nbsp;</button></td>
+							<td><button type="button" class="btnTicTac" id="top-right">&nbsp;</button></td>
+						</tr>
+						<tr>
+							<td><button type="button" class="btnTicTac" id="center-left">&nbsp;</button></td>
+							<td><button type="button" class="btnTicTac" id="center-middle">&nbsp;</button></td>
+							<td><button type="button" class="btnTicTac" id="center-right">&nbsp;</button></td>
+						</tr>
+						<tr>
+							<td><button type="button" class="btnTicTac" id="bottom-left">&nbsp;</button></td>
+							<td><button type="button" class="btnTicTac" id="bottom-middle">&nbsp;</button></td>
+							<td><button type="button" class="btnTicTac" id="bottom-right">&nbsp;</button></td>
+						</tr>
+						<tr>
+							<td align="center" colspan="3"><button type="button" class="btn btn-secondary mt-2" id="game-over">Finish</button></td>
+						</tr>
+					</table>
+				</div>
+			</div>
+			
+		</main>
+		<script src="js/script.js"></script>
+		<script src="./js/bootstrap.bundle.min.js"></script>
+	</body>
+</html>
